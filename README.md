@@ -1,82 +1,87 @@
+<!--
+  ╔═══════════════════════════════════════════════════════╗
+  ║  OBSIDIAN.SYS // riquegmz                             ║
+  ║  classification: PUBLIC                               ║
+  ║  do not edit without authorization                    ║
+  ╚═══════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<!-- HEADER GLITCH BANNER -->
 <a href="https://github.com/riquegmz">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=HENRIQUE%20GIACUMUZZI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=designer.dev%20%2F%2F%20building%20at%20the%20edge%20of%20web&descAlignY=58&descSize=14&animation=fadeIn" alt="header"/>
-</a>
-
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/riquegmz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=00FFA3&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+freelance+web+developer;%3E+based+in+gua%C3%ADra%2C+pr+%2F%2F+brasil;%3E+building+saas+%2B+concept+sites;%3E+%5Bsystem%5D+ready_" alt="typing animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,30:1a0a0e,70:dc143c,100:050505&height=240&section=header&text=OBSIDIAN.SYS&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=//%20operative_001%20::%20riquegmz%20::%20transmission_active&descAlignY=64&descSize=14&animation=fadeIn" alt="obsidian.sys"/>
 </a>
 
 <br/>
 
-```ansi
-┌─[riquegmz@dev]─[~/portfolio]
-└──╼ $ cat profile.json
-```
+<a href="https://github.com/riquegmz">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2400&pause=900&color=DC143C&center=true&vCenter=true&width=720&lines=%5BBOOT%5D+initializing+neural+interface...;%5BAUTH%5D+verifying+operative+credentials...;%5BLINK%5D+encrypted+channel+established+%E2%97%89;%5BSYS%5D+welcome+to+obsidian.sys+%2F%2F+access+granted" alt="boot sequence"/>
+</a>
 
 </div>
 
-```json
-{
-  "name": "Henrique Giacumuzzi",
-  "role": "Web Developer & Designer",
-  "location": "Guaíra, PR — Brasil 🇧🇷",
-  "status": "open to freelance && building AgendaPRO",
-  "stack": ["Flutter", "Dart", "TypeScript", "React"],
-  "philosophy": "design is how it works — not just how it looks",
-  "currently": "shipping concept sites for local businesses",
-  "fuel": ["coffee", "synthwave", "late nights"]
-}
-```
+<br/>
+
+<!-- ░▒▓ HAZARD STRIPE ▓▒░ -->
+<div align="center">
+
+`░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█`
+
+</div>
 
 <br/>
 
 <div align="center">
 
-## ╔══ // ABOUT ══════════════════════════════════════╗
+### `// IDENTITY.dat`
+
+</div>
+
+```ts
+const operative = {
+  designation : "riquegmz",
+  alias       : "henrique giacumuzzi",
+  role        : ["web.developer", "designer", "freelancer"],
+  sector      : "guaíra · pr // brasil ▪ -24.0833, -54.2500",
+  status      : "● operational :: contracts.open",
+  doctrine    : "design is how it works — not just how it looks",
+  uplink      : "open to freelance && shipping AgendaPRO",
+} as const;
+```
+
+<br/>
+
+<!-- ░▒▓ HAZARD STRIPE ▓▒░ -->
+<div align="center">
+
+`█▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `// MANIFESTO.txt`
 
 </div>
 
 ```diff
-+ designer turned developer — i bridge two worlds
-+ frontend craftsman obsessed with motion, type, atmosphere
-+ pitching unsolicited concept sites to local businesses
-+ inspired by landonorris.com, resn.co.nz, bruno-simon.com
-- not interested in: generic templates, lorem ipsum, soulless ui
++ designer turned developer · bridging two worlds
++ obsessed with motion · type · atmosphere · weight
++ pitching unsolicited concept work to local businesses
++ atmospheric web in the spirit of resn · landonorris · bruno-simon
+- not interested: stock templates · lorem ipsum · soulless ui
+- not for sale: shortcuts · half-built systems · throwaway code
+! signal over noise · craft over volume · always
 ```
 
 <br/>
 
+<!-- ░▒▓ HAZARD STRIPE ▓▒░ -->
 <div align="center">
 
-## ╔══ // ARSENAL ════════════════════════════════════╗
-
-<br/>
-
-**`primary stack`**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**`web`**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**`design + tools`**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+`░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█`
 
 </div>
 
@@ -84,20 +89,43 @@
 
 <div align="center">
 
-## ╔══ // SYSTEM.STATS ═══════════════════════════════╗
+### `// ARSENAL.bin`
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquegmz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=00FFA3&text_color=ffffff&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquegmz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=ffffff&langs_count=8"/>
+`▸ PRIMARY_PAYLOAD`
+
+![Flutter](https://img.shields.io/badge/FLUTTER-0a0a0a?style=for-the-badge&logo=flutter&logoColor=00d4ff&labelColor=050505)
+![Dart](https://img.shields.io/badge/DART-0a0a0a?style=for-the-badge&logo=dart&logoColor=00d4ff&labelColor=050505)
+![Supabase](https://img.shields.io/badge/SUPABASE-0a0a0a?style=for-the-badge&logo=supabase&logoColor=dc143c&labelColor=050505)
+![Firebase](https://img.shields.io/badge/FIREBASE-0a0a0a?style=for-the-badge&logo=firebase&logoColor=dc143c&labelColor=050505)
+
+`▸ WEB_INTERFACE`
+
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0a0a0a?style=for-the-badge&logo=typescript&logoColor=00d4ff&labelColor=050505)
+![React](https://img.shields.io/badge/REACT-0a0a0a?style=for-the-badge&logo=react&logoColor=00d4ff&labelColor=050505)
+![Next.js](https://img.shields.io/badge/NEXT.JS-0a0a0a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff&labelColor=050505)
+![Tailwind](https://img.shields.io/badge/TAILWIND-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=00d4ff&labelColor=050505)
+
+`▸ DESIGN_LAYER`
+
+![Figma](https://img.shields.io/badge/FIGMA-0a0a0a?style=for-the-badge&logo=figma&logoColor=dc143c&labelColor=050505)
+![Framer](https://img.shields.io/badge/FRAMER-0a0a0a?style=for-the-badge&logo=framer&logoColor=ffffff&labelColor=050505)
+
+`▸ DEPLOYMENT_VECTOR`
+
+![Vercel](https://img.shields.io/badge/VERCEL-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=050505)
+![Netlify](https://img.shields.io/badge/NETLIFY-0a0a0a?style=for-the-badge&logo=netlify&logoColor=00d4ff&labelColor=050505)
+![Git](https://img.shields.io/badge/GIT-0a0a0a?style=for-the-badge&logo=git&logoColor=dc143c&labelColor=050505)
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riquegmz&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3" height="180em"/>
+<!-- ░▒▓ HAZARD STRIPE ▓▒░ -->
+<div align="center">
 
-<br/><br/>
-
-![snake gif](https://github.com/riquegmz/riquegmz/blob/output/github-contribution-grid-snake-dark.svg)
+`█▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░`
 
 </div>
 
@@ -105,63 +133,209 @@
 
 <div align="center">
 
-## ╔══ // CURRENTLY.SHIPPING ═════════════════════════╗
+### `// ACTIVE_OPERATIONS.log`
 
 </div>
 
 ```yaml
-project: AgendaPRO
-type: SaaS — multi-tenant scheduling + financials
-target: small businesses (barbershops, professional offices)
-stack:
-  - Flutter + Dart
-  - Supabase (PostgreSQL + RLS)
-  - Riverpod, go_router
-  - Stripe + Pagar.me + Iugu
-  - Resend + Z-API (WhatsApp reminders)
-status: in active development
+╔══════════════════════════════════════════════════════════╗
+║  OP-001 :: AGENDAPRO                          [● LIVE]   ║
+╚══════════════════════════════════════════════════════════╝
+
+  classification : SaaS · multi-tenant
+  payload        : scheduling matrix + financial ops
+  surface        : barbershops · clinics · pro services
+  
+  stack:
+    runtime    → flutter + dart
+    backbone   → supabase (postgres + RLS)
+    state      → riverpod + go_router
+    payments   → stripe · pagar.me · iugu
+    comms      → resend · z-api (whatsapp reminders)
+  
+  status: > in_active_development
+
+
+╔══════════════════════════════════════════════════════════╗
+║  OP-002 :: CONCEPT.SITES_PIPELINE          [▶ ONGOING]   ║
+╚══════════════════════════════════════════════════════════╝
+
+  classification : freelance · unsolicited
+  doctrine       : ship before you pitch
+  
+  delivered:
+    [▣] BUFFALO HAMBURGUERIA      · multi-location chain
+    [▣] HEROES DOGUERIA GEEK      · geek-themed burgers
+    [▣] PIZZARIA GARAGEM 85       · local pizzeria
+    [▣] KODAWARI                  · japanese restaurant
+  
+  methodology:
+    01 → extract real data · zero lorem ipsum
+    02 → architect multi-file · zero god components
+    03 → deploy to netlify · zero half-builds
+    04 → pitch via whatsapp · zero cold email
 ```
 
-```yaml
-project: Concept Sites Pipeline
-type: unsolicited freelance work
-clients_shipped:
-  - Buffalo Hamburgueria       # multi-location chain
-  - Heroes Dogueria Geek       # geek-themed burgers
-  - Pizzaria Garagem 85        # local pizzeria
-  - Kodawari                   # japanese restaurant
-methodology:
-  - extract real data (no lorem ipsum)
-  - architect multi-file, organized
-  - deploy to netlify
-  - pitch via whatsapp
-```
+<br/>
+
+<!-- ░▒▓ HAZARD STRIPE ▓▒░ -->
+<div align="center">
+
+`░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█`
+
+</div>
 
 <br/>
 
 <div align="center">
 
-## ╔══ // CONNECT ════════════════════════════════════╗
+### `// TELEMETRY.feed`
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riquegmz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
+<a href="https://github.com/riquegmz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquegmz&show_icons=true&hide_border=false&border_color=1a1a1a&bg_color=0a0a0a&title_color=dc143c&icon_color=00d4ff&text_color=e5e5e5&include_all_commits=true&count_private=true" alt="github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquegmz&layout=compact&hide_border=false&border_color=1a1a1a&bg_color=0a0a0a&title_color=dc143c&text_color=e5e5e5&langs_count=8" alt="top languages"/>
+</a>
 
 <br/>
 
-```ansi
-[█▓▒░ END_OF_TRANSMISSION ░▒▓█]
+<a href="https://github.com/riquegmz">
+  <img height="180em" src="https://streak-stats.demolab.com?user=riquegmz&hide_border=false&border=1a1a1a&background=0a0a0a&stroke=1a1a1a&ring=dc143c&fire=dc143c&currStreakLabel=00d4ff&sideLabels=e5e5e5&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b8b" alt="streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=WAKATIME_USER&layout=compact&hide_border=false&border_color=1a1a1a&bg_color=0a0a0a&title_color=dc143c&text_color=e5e5e5&langs_count=6" alt="wakatime"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ░▒▓ HAZARD STRIPE ▓▒░ -->
+<div align="center">
+
+`█▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `// WIRETAP.audio`
+
+<br/>
+
+> intercepted audio signal · subject: operative_001
+
+<br/>
+
+<a href="https://open.spotify.com/user/SPOTIFY_USER_ID">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=SPOTIFY_USER_ID&count=5&unique=true" alt="recent transmissions" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ░▒▓ HAZARD STRIPE ▓▒░ -->
+<div align="center">
+
+`░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `// DEPLOYED_ASSETS.idx`
+
+<br/>
+
+<a href="https://github.com/riquegmz/REPO_AGENDAPRO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=riquegmz&repo=REPO_AGENDAPRO&hide_border=false&border_color=dc143c&bg_color=0a0a0a&title_color=dc143c&icon_color=00d4ff&text_color=e5e5e5" alt="agendapro" />
+</a>
+<a href="https://github.com/riquegmz/REPO_BUFFALO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=riquegmz&repo=REPO_BUFFALO&hide_border=false&border_color=1a1a1a&bg_color=0a0a0a&title_color=dc143c&icon_color=00d4ff&text_color=e5e5e5" alt="buffalo" />
+</a>
+
+<br/>
+
+<a href="https://github.com/riquegmz/REPO_HEROES">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=riquegmz&repo=REPO_HEROES&hide_border=false&border_color=1a1a1a&bg_color=0a0a0a&title_color=dc143c&icon_color=00d4ff&text_color=e5e5e5" alt="heroes dogueria" />
+</a>
+<a href="https://github.com/riquegmz/REPO_GARAGEM">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=riquegmz&repo=REPO_GARAGEM&hide_border=false&border_color=1a1a1a&bg_color=0a0a0a&title_color=dc143c&icon_color=00d4ff&text_color=e5e5e5" alt="garagem 85" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ░▒▓ HAZARD STRIPE ▓▒░ -->
+<div align="center">
+
+`█▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `// TRANSMISSION_HISTORY.svg`
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riquegmz/riquegmz/output/snake-crimson.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riquegmz/riquegmz/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/riquegmz/riquegmz/output/snake-crimson.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ░▒▓ HAZARD STRIPE ▓▒░ -->
+<div align="center">
+
+`░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█  ▓▒░  ░▒▓█`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `// ENCRYPTED_CHANNELS`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=050505)](https://github.com/riquegmz)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=050505)](LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=dc143c&labelColor=050505)](mailto:EMAIL)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=00ff88&labelColor=050505)](WHATSAPP_URL)
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=riquegmz&label=SIGNAL.INTERCEPTS&color=dc143c&style=for-the-badge)
+
+</div>
+
+<br/>
+
+<!-- ░▒▓ END HAZARD STRIPE ▓▒░ -->
+<div align="center">
+
+`█▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░  ▓▒░  █▓▒░`
+
+<br/>
+
+```
+> connection_terminated
+> [signal lost at 03:42:17 UTC]
 ```
 
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=riquegmz&label=visitors&color=00ffa3&style=for-the-badge)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,30:dc143c,70:1a0a0e,100:050505&height=120&section=footer" alt="footer"/>
 
 </div>
