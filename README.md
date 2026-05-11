@@ -73,17 +73,6 @@ Sistema **multi-tenant** de agendamento para barbearias, clínicas e escritório
 
 ---
 
-## Outros Trabalhos
-
-Sites conceituais entregues a clientes locais — construídos antes de propostos, com dados reais.
-
-- **Buffalo Hamburgueria** — rede multi-loja
-- **Heroes Dogueria Geek** — casa temática de hambúrgueres
-- **Pizzaria Garagem 85** — pizzaria local
-- **Kodawari** — restaurante japonês
-
----
-
 ## Atualmente Estudando
 
 <p>
